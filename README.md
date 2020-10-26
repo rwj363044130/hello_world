@@ -1,3 +1,3 @@
 # hello_world
 first program
-fghjk
+i m git
